@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/firebase-auto-deploy/",
+    "public": "dist/firebase-auto-deploy/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
